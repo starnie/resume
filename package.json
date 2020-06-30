@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "resume",
   "version": "1.0.1",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/starnie"
   },
-  "homepage": "starnie.github.io/resume/",
+  "homepage": "https://starnie.github.io/resume/",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
